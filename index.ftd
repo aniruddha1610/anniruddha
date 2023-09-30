@@ -29,12 +29,12 @@ z-index: 3
 margin-top.rem: -72
 border-radius.px: 10
 
--- profile.wrapper: Victor Crest
-avatar: $assets.files.images.image-victor.jpg
-city: London
-github-url: https://www.github.com/
-linkedin-url: https://www.linkedin.com/
-instagram-url: https://www.instagram.com/
+-- profile.wrapper: Aniruddha Warkad
+avatar: $assets.files.images.ani.jpg
+city: Nagpur
+github-url: https://github.com/aniruddha1610
+linkedin-url: https://www.linkedin.com/in/aniruddha-warkad-9560ba290/
+instagram-url: https://www.instagram.com/aniruddhawarkad1610/?next=%2F
 twitter-url: https://twitter.com/
 
 -- end: ftd.container
@@ -78,12 +78,12 @@ z-index: 3
 margin-top.rem: -70
 border-radius.px: 10
 
--- profile.wrapper: Victor Crest
-avatar: $assets.files.images.image-victor.jpg
-city: London
-github-url: https://www.github.com/
-linkedin-url: https://www.linkedin.com/
-instagram-url: https://www.instagram.com/
+-- profile.wrapper: Aniruddha Warkad
+avatar: $assets.files.images.ani.jpg
+city: Nagpur
+github-url: https://github.com/aniruddha1610
+linkedin-url: https://www.linkedin.com/in/aniruddha-warkad-9560ba290/
+instagram-url: https://www.instagram.com/aniruddhawarkad1610/?next=%2F
 twitter-url: https://twitter.com/
 
 -- end: ftd.container
